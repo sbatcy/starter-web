@@ -16,14 +16,17 @@ Apple's worldwide annual revenue totaled $229 billion for the 2017 fiscal year. 
 
 Apple sells various products.
 
-Laptop:
+### Laptop:
+
 ![alt text](http://dlb99j1rm9bvr.cloudfront.net/macbook-pro-15-inch-skin/parts/angle-1/model/size-1000/bg.png)
 
 
-Watch:
+### Watch:
+
 ![alt text](https://target.scene7.com/is/image/Target/16867605?wid=488&hei=488&fmt=pjpeg)
 
 
-TV:
+### TV:
+
 ![alt text](https://hnsfpau.imgix.net/5/images/detailed/53/ATV_Remote_ISO-Table-PRINT.jpg?fit=fill&bg=0FFF&w=1500&h=844&auto=format,compress)
 
